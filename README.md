@@ -1,1 +1,1 @@
-vm
+# ubuntu-template
